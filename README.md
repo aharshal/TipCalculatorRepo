@@ -24,6 +24,13 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+<img src='https://i.imgur.com/fMtlQfR.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+
+Here's a walkthrough of implemented user stories:
+
 ![](giphy (1).gif)
 
 <div style="width:100%;height:0;padding-bottom:212%;position:relative;"><iframe src="https://giphy.com/embed/pDzuFF2IDEr6Rbfpfe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pDzuFF2IDEr6Rbfpfe">via GIPHY</a></p>
